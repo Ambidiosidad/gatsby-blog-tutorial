@@ -15,19 +15,19 @@ const links = [
   },
   {
     text: "Post 2",
-    url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
+      url: "https://lab1-jogesimon-6a4393.netlify.app/post2/",
     description:
       "Link al segundo post del blog",
   },
   {
     text: "Post 3",
-    url: "https://www.gatsbyjs.com/plugins",
+      url: "https://lab1-jogesimon-6a4393.netlify.app/post3/",
     description:
       "Link al tercer post del blog",
   },
   {
     text: "Post 4",
-    url: "https://www.gatsbyjs.com/cloud",
+      url: "https://lab1-jogesimon-6a4393.netlify.app/post4/",
     description:
       "Link al cuarto post del blog",
   },
