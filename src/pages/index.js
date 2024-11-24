@@ -33,6 +33,18 @@ const links = [
   },
 ]
 
+const samplePageLinks = [
+  {
+    text: "Post1",
+    url: "post1",
+    badge: false,
+    description:
+      "ejemplo de link",
+  },
+  { text: "post2", url: "post2" },
+  { text: "post3", url: "post3" },
+  { text: "post4", url: "post4" },
+]
 
 const moreLinks = [
   { text: "Web desarrollada por Jorge Simon Brumos para el laboratorio 1 de aplicaciones en red" },
